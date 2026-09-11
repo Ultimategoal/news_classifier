@@ -1,14 +1,14 @@
-# news_classifier
+news_classifier
 
-# 사용된 데이터셋: AG-NEWS Dataset
+##### 사용된 데이터셋: AG-NEWS Dataset
 
-# 토크나이저: DistilBERT tokenizer (vocab_size = 30,522)
+##### 토크나이저: DistilBERT tokenizer (vocab_size = 30,522)
 
-# 임베딩 디멘션: 256차원으로 설정 (학습 환경에서 사용 가능한 GPU Vram이 6기가로 보수적으로 설정)
+##### 임베딩 디멘션: 256차원으로 설정 (학습 환경에서 사용 가능한 GPU Vram이 6기가로 보수적으로 설정)
 
-# DistilBERT의 토크나이저 vocabulary를 사용하지만, Transformer encoder 자체는 직접 구현한 custom architecture
+##### DistilBERT의 토크나이저 vocabulary를 사용하지만, Transformer encoder 자체는 직접 구현한 custom architecture
 
-# Pretrained model인 DistilBERT를 fine-tuning하지 않음
+##### Pretrained model인 DistilBERT를 fine-tuning하지 않음
 
 # 아키텍처
 256-dimensional embeddings
