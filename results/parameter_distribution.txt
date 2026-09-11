@@ -1,0 +1,46 @@
+Parameter Distribution
+================================================================================
+
+Total parameters: 9,394,180
+Trainable parameters: 9,394,180
+
+Parameters by tensor
+--------------------------------------------------------------------------------
+embedding.weight                                              7,813,632
+encoder.layers.0.norm1.weight                                       256
+encoder.layers.0.norm1.bias                                         256
+encoder.layers.0.self_attention.q_proj.weight                    65,536
+encoder.layers.0.self_attention.q_proj.bias                         256
+encoder.layers.0.self_attention.k_proj.weight                    65,536
+encoder.layers.0.self_attention.k_proj.bias                         256
+encoder.layers.0.self_attention.v_proj.weight                    65,536
+encoder.layers.0.self_attention.v_proj.bias                         256
+encoder.layers.0.self_attention.out_proj.weight                  65,536
+encoder.layers.0.self_attention.out_proj.bias                       256
+encoder.layers.0.norm2.weight                                       256
+encoder.layers.0.norm2.bias                                         256
+encoder.layers.0.feed_forward.linear1.weight                    262,144
+encoder.layers.0.feed_forward.linear1.bias                        1,024
+encoder.layers.0.feed_forward.linear2.weight                    262,144
+encoder.layers.0.feed_forward.linear2.bias                          256
+encoder.layers.1.norm1.weight                                       256
+encoder.layers.1.norm1.bias                                         256
+encoder.layers.1.self_attention.q_proj.weight                    65,536
+encoder.layers.1.self_attention.q_proj.bias                         256
+encoder.layers.1.self_attention.k_proj.weight                    65,536
+encoder.layers.1.self_attention.k_proj.bias                         256
+encoder.layers.1.self_attention.v_proj.weight                    65,536
+encoder.layers.1.self_attention.v_proj.bias                         256
+encoder.layers.1.self_attention.out_proj.weight                  65,536
+encoder.layers.1.self_attention.out_proj.bias                       256
+encoder.layers.1.norm2.weight                                       256
+encoder.layers.1.norm2.bias                                         256
+encoder.layers.1.feed_forward.linear1.weight                    262,144
+encoder.layers.1.feed_forward.linear1.bias                        1,024
+encoder.layers.1.feed_forward.linear2.weight                    262,144
+encoder.layers.1.feed_forward.linear2.bias                          256
+classifier.classifier.weight                                      1,024
+classifier.classifier.bias                                            4
+
+Parameters by top-level module
+--------------------------------------------------------------------------------
