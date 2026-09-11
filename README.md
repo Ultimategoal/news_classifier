@@ -128,3 +128,8 @@ classifier.classifier.bias                                            4
 
 # Metric
 <img width="418" height="201" alt="image" src="https://github.com/user-attachments/assets/f734b1fa-8701-4670-a00e-77afc645a100" />
+
+# GPU
+##### 왼쪽은 VRAM / 오른쪽은 사용률
+<img width="276" height="23" alt="image" src="https://github.com/user-attachments/assets/415ebcc6-7594-4442-b96f-f5962f365686" />
+
