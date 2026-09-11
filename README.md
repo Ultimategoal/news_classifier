@@ -123,9 +123,9 @@ classifier.classifier.bias                                            4
 
 
 
-# 9.39M 파라티머 중 약 83%가 vocabulary embedding에 할당
+##### 9.39M 파라티머 중 약 83%가 vocabulary embedding에 할당
 
-# 실제 Transformer encoder는 약 1.58M 파라티머 차지
+##### 실제 Transformer encoder는 약 1.58M 파라티머 차지
 
 # Metric
 <img width="418" height="201" alt="image" src="https://github.com/user-attachments/assets/f734b1fa-8701-4670-a00e-77afc645a100" />
