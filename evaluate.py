@@ -151,6 +151,8 @@ with open(
     f.write("Parameters by top-level module\n")
     f.write("-" * 80 + "\n")
 
+    module_params = {}
+
     for name, count in module_params.items():
 
         percentage = (
