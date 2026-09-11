@@ -1,4 +1,4 @@
-news_classifier
+news_classifier (Encoder only model)
 
 ##### 사용된 데이터셋: AG-NEWS Dataset
 
