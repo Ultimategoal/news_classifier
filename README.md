@@ -1,4 +1,5 @@
-news_classifier (Encoder only model)
+# Overview
+##### news_classifier (Encoder only model)
 
 ##### 사용된 데이터셋: AG-NEWS Dataset
 
@@ -26,7 +27,7 @@ Mask-aware mean pooling
 4-class classifier
 
 
-# 모델
+# 학습 파라미터 수
 9.39M Trainable parameters
 
 # 학습
